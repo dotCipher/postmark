@@ -16,4 +16,9 @@ compileTestKotlin.kotlinOptions {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
+
+    testImplementation("io.strikt:strikt-core")
+    testImplementation("org.junit.jupiter:junit-jupiter-api")
+    testImplementation("org.junit.jupiter:junit-jupiter-params")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
 }
