@@ -1,0 +1,32 @@
+Received: from 123-EAST.WHATEVER.com ([120.255.1.200]) by
+ 123-EAST.WHATEVER.com ([120.255.1.200]) with Microsoft SMTP Server id
+ 14.03.0319.002; Sun, 2 Apr 2017 13:06:11 -0700
+From: "people@places.with.multi.tld"
+	<people@places.with.multi.tld>
+To: place <place@something.com>, "roar@gerr.blah" <roar@gerr.blah>, "John Smith" <jsmith@other.com>, "abc@blah.tld" <abc@blah.tld>
+Subject: [AWESOME] Tests
+Thread-Topic: [AWESOME] Tests
+Date: Sun, 2 Apr 2017 20:06:02 +0000
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: 123-what.WHATEVER.com
+X-MS-Has-Attach:
+X-MS-Exchange-Inbox-Rules-Loop: place@something.com
+X-MS-TNEF-Correlator: 1ba85050-3baf-487b-bfcb-efad4d8fda7c
+x-clx-shades: MLX
+x-clx-response: 12345678901234567890
+x-proofpoint-virus-version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2017-04-02_18:,, signatures=0
+x-proofpoint-spam-details: rule=av_phish_only_notspam policy=av_phish_only
+ score=0 priorityscore=0 suspectscore=1 malwarescore=0 phishscore=0
+ bulkscore=0 spamscore=0 clxscore=183 impostorscore=0 lowpriorityscore=0
+ adultscore=0 classifier=spam adjust=0 reason=mlx scancount=2
+ engine=8.0.1-1702020001 definitions=main-1704020190
+Resent-From: <place@something.com>
+MIME-Version: 1.0
+Message-Id: <d70de7a32ceb4a19bad75a6d01b72e99@123-WHAT.WHATEVER.com
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Some text content with stuff
+

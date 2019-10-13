@@ -1,0 +1,12 @@
+test
+example.@
+<test>
+example>
+<>
+<
+>
+.!@3
+Not Valid Because Of Space Between Name And Address<address@place.com>
+Should Be <invalid@place.thing
+Also invalid@something.com>
+<just@this.com>

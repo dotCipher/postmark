@@ -1,0 +1,6 @@
+
+# JUnit5
+org.junit.jupiter:* = 5.5.1
+
+# Strikt Assertions
+io.strikt:* = 0.21.1
